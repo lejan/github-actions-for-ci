@@ -5,9 +5,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ lejan/custom_workflow ]
+    branches: [ team_workflow_again ]
   pull_request:
-    branches: [ lejan/custom_workflow ]
+    branches: [ team_workflow_again ]
 
 jobs:
   build:
